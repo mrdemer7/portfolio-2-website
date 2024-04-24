@@ -1,4 +1,4 @@
-# portfolio glassmorphism website-2
+# Portfolio Glassmorphism Website-2
 
 ![image](https://github.com/mrdemer7/portfolio-2-website/assets/117861145/29459cee-bd86-4414-9b98-284c64b939e1)
 
